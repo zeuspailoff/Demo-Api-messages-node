@@ -7,3 +7,8 @@ export const newMessageRegistry = async (body) => {
     return message;
 };
 
+export const getMessageById = async (messageId) => {
+    const message = await connecJson.getMessageById(messageId);
+    return message;
+};
+

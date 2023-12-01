@@ -1,14 +1,1 @@
-[
-  {
-    "id": "8175fdf7-cca3-4b24-9567-ff09c9dd2bef",
-    "text": "Hola mundo"
-  },
-  {
-    "id": "2c62ce7a-b6ca-4a2b-bc22-954b77fd4e02",
-    "text": "Este es mi mensaje de prueba"
-  },
-  {
-    "id": "579284f4-7f64-478d-8d3b-66727b733858",
-    "text": "funciona"
-  }
-]
+[{"id":"8175fdf7-cca3-4b24-9567-ff09c9dd2bef","text":"Hola mundo"},{"id":"2c62ce7a-b6ca-4a2b-bc22-954b77fd4e02","text":"Este es mi mensaje de prueba"},{"id":"579284f4-7f64-478d-8d3b-66727b733858","text":"funciona"},{"id":"da22fbb6-ab29-479d-af42-b5b92f5e7d39","text":"Hola bebe "},{"id":"1eac3739-8129-486d-b436-6085e39a5955","text":"feliz viernes "}]
